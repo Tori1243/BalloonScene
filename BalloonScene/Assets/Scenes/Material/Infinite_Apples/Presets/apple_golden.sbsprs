@@ -1,0 +1,38 @@
+<sbspresets formatversion="1" count="1">
+ <sbspreset label="preset" pkgurl="pkg://Apple">
+  <presetinput value="1,1" uid="4294967295" type="1" identifier="$pixelsize"/>
+  <presetinput value="0" uid="4294967295" type="4" identifier="$randomseed"/>
+  <presetinput value="0.941176,0.776471,0.12549,1" uid="1238559322" type="3" identifier="Base_Color_1"/>
+  <presetinput value="0.941176,0.776471,0.12549,1" uid="1238563874" type="3" identifier="Base_Color_2"/>
+  <presetinput value="1" uid="1238574621" type="4" identifier="Base_Color_Invert"/>
+  <presetinput value="2" uid="1238559661" type="4" identifier="Pattern_Distance"/>
+  <presetinput value="27" uid="1238559700" type="0" identifier="Pattern_Disorder"/>
+  <presetinput value="0.05" uid="1238573785" type="0" identifier="Overall_Color_Variation"/>
+  <presetinput value="0.03" uid="1238573875" type="0" identifier="Overall_Color_Noise"/>
+  <presetinput value="0" uid="1238574034" type="0" identifier="Overall_Color_Enhance"/>
+  <presetinput value="0.843137,0.687678,0.125643,1" uid="1238573594" type="3" identifier="Features_Color"/>
+  <presetinput value="1" uid="1238573169" type="0" identifier="Features_Color_2_Opacity"/>
+  <presetinput value="0.2" uid="1238550630" type="0" identifier="Streaks_Small_Opacity"/>
+  <presetinput value="0.35" uid="1238550719" type="0" identifier="Streaks_Small_Spread"/>
+  <presetinput value="0.23" uid="1238550843" type="0" identifier="Streaks_Medium_1_Opacity"/>
+  <presetinput value="0.5" uid="1238550931" type="0" identifier="Streaks_Medium_1_Spread"/>
+  <presetinput value="0.26" uid="1238551092" type="0" identifier="Streaks_Medium_2_Opacity"/>
+  <presetinput value="0.36" uid="1238551178" type="0" identifier="Streaks_Medium_2_Spread"/>
+  <presetinput value="0.14" uid="1238570202" type="0" identifier="Streaks_Big_Opacity"/>
+  <presetinput value="0.95" uid="1238570095" type="0" identifier="Streaks_Big_Spread"/>
+  <presetinput value="0" uid="1238569359" type="0" identifier="Stains_1_Disorder"/>
+  <presetinput value="0.3" uid="1238569503" type="0" identifier="Stains_1_Opacity"/>
+  <presetinput value="0" uid="1238569757" type="0" identifier="Stains_2_Disorder"/>
+  <presetinput value="0.11" uid="1238569875" type="0" identifier="Stains_2_Opacity"/>
+  <presetinput value="0.13" uid="1238569984" type="0" identifier="Stains_3_Opacity"/>
+  <presetinput value="0.55" uid="1238573326" type="0" identifier="Dots_Color_1_Opacity"/>
+  <presetinput value="0.43" uid="1238573413" type="0" identifier="Dots_Color_2_Opacity"/>
+  <presetinput value="0.662745,0.529412,0.0235294,1" uid="1238637692" type="3" identifier="Rough_Skin_Color"/>
+  <presetinput value="0,0.51" uid="1238631722" type="1" identifier="Rough_Skin_Top_Spread"/>
+  <presetinput value="0.86" uid="1238636405" type="0" identifier="Rough_Skin_Top_Roughness"/>
+  <presetinput value="0" uid="1239323263" type="0" identifier="Rough_Skin_Dots_Depth"/>
+  <presetinput value="0.49" uid="1239413366" type="0" identifier="Skin_Deformation"/>
+  <presetinput value="0" uid="1239413639" type="0" identifier="Skin_Roughness"/>
+  <presetinput value="-0.5" uid="1239409598" type="0" identifier="Skin_Roughness_Variation"/>
+ </sbspreset>
+</sbspresets>
